@@ -3,7 +3,7 @@
 <p>Xin chào 👋 👋</p>
 <p>Mình là Bảo Vinh ( BaroVinh ) </p>
 <p>Mình là 🙉 sinh viên IT của trường ĐH CÔNG THƯƠNG TP.HCM</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deethesaint&label=Profile%20views&color=0e75b6&style=flat" alt="barovinh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barovinh&label=Profile%20views&color=0e75b6&style=flat" alt="barovinh" /> </p>
 
 ## socials
 
