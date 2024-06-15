@@ -1,6 +1,6 @@
 ## about me
 
-<p>BaroVinhP</p> <p>T so 2 khong ai so 1</p>
+<p>BaroVinhP</p> <p>2003 - 21 years old - single - no ex</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barovinh&label=Profile%20views&color=0e75b6&style=flat" alt="barovinh" /> </p>
 
 ## socials
