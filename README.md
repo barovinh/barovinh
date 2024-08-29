@@ -1,20 +1,3 @@
-## about me
-
-<p>BaroVinhP</p> <p>2003 - 21 years old</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barovinh&label=Profile%20views&color=0e75b6&style=flat" alt="barovinh" /> </p>
-
-## socials
-
-<p align="left">
-<a href="https://fb.com/barovinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barovinh" height="30" width="40" /></a>
-<a href="https://instagram.com/barovinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barovinh" height="30" width="40" /></a>
-</p>
-
-## tech stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,py,java,cpp,php,js,html,css,laravel,firebase,sqlite,mysql,jquery,bootstrap,figma,git,vscode,androidstudio,eclipse" height="105px">
-</p>
 
 ## github stats
 
