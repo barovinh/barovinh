@@ -2,6 +2,7 @@
 ## github stats
 <p>Họ tên: Phan Ngọc Bảo Vinh</p>
 <p>Thích được gọi là Bảo Vinh thay vì Vinh :< </p>
+# Some time
 <p align="center">
   <a href="https://github.com/barovinh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=barovinh&theme=radical&hide_border=true" alt="barovinh"/>
