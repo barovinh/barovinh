@@ -1,8 +1,7 @@
 
 ## github stats
 <p>Họ tên: Phan Ngọc Bảo Vinh</p>
-<p>Thích được gọi là Bảo Vinh thay vì Vinh :< </p>
-<p> Thực tập sinh tại Viện công nghệ thông tin Bộ quốc phòng </p>
+<p>
 # Some time
 <p align="center">
   <a href="https://github.com/barovinh">
