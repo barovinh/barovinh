@@ -1,7 +1,7 @@
 
 ## github stats
 <p>Họ tên: Phan Ngọc Bảo Vinh</p>
-<p>Bởi vì uộc sống là do chúng ta lựa chọn! nên tớ không có bồ </p>
+<p>Bởi vì cuộc sống là do chúng ta lựa chọn! nên tớ không có bồ </p>
 <p>
 # Some time
 <p align="center">
