@@ -3,7 +3,7 @@
 <p>Họ tên: Phan Ngọc Bảo Vinh</p>
 <p>When you feel unhappy, look at the sky </p>
 <p>
-# Some time
+
 <p align="center">
   <a href="https://github.com/barovinh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=barovinh&theme=radical&hide_border=true" alt="barovinh"/>
