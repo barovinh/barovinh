@@ -1,7 +1,7 @@
 
 ## github stats
-<p>Họ tên: Phan Ngọc Bảo Vinh</p>
-<p>When you feel unhappy, look at the sky </p>
+<p>Họ tên: Phan Ngọc Bao Vinh</p>
+<p>--Lampart-- </p>
 <p>
 
 <p align="center">
