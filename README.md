@@ -1,7 +1,6 @@
 
 ## github stats
 <p>Họ tên: Phan Ngọc Bao Vinh</p>
-<p>--Lampart-- </p>
 <p>
 
 <p align="center">
